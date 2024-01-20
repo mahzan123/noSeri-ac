@@ -138,6 +138,10 @@ header:hover {
   background-image: linear-gradient(to top, rgba(0,100,150,5), rgba(0,0,0,0));
 }
 
+.list #btn-menu .title {
+  background-color: red;
+}
+
 .list code {
   margin: 1.5px;
   text-align: center;
@@ -150,7 +154,7 @@ header:hover {
   color: #333;
   padding: 5px;
 }
-;
+
 .list code a:hover {
   background-color: teal;
   color: white;
