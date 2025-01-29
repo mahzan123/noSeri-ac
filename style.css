@@ -131,6 +131,14 @@ header:hover {
   color: grey;
 }
 
+.list-angka {
+  font-size: 20px;
+  top: 0;
+  right: 0;
+  font-family: chango;
+  color: grey;
+}
+
 .list {
   display: flex;
   flex-direction: column;
